@@ -1,6 +1,6 @@
 {
   "name": "chatters.pro",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Chatters.pro is a platform that aims to revolutionize how businesses interact with their customers, employees, and partners through innovative communication solutions. The platform utilizes conversational interfaces powered by AI to optimize various use cases, including customer attention, sales management, and schedule management.",
   "main": "app.js",
   "scripts": {
